@@ -3,6 +3,7 @@
 [![CircleCI](https://circleci.com/gh/noms-digital-studio/licences/tree/master.svg?style=svg)](https://circleci.com/gh/noms-digital-studio/licences/tree/master)
 [![Known Vulnerabilities](https://snyk.io/test/github/noms-digital-studio/licences/badge.svg)](https://snyk.io/test/github/noms-digital-studio/licences)
 [![Code Quality](https://sonarcloud.io/api/project_badges/measure?project=HomeDetentionCurfew-20180813&metric=alert_status)](https://sonarcloud.io/dashboard?id=HomeDetentionCurfew-20180813)
+[![Maintainability](https://api.codeclimate.com/v1/badges/76596ef31fa34e567347/maintainability)](https://codeclimate.com/github/tinymoth/licences/maintainability)
 
 # Get Started
 
